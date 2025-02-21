@@ -28,19 +28,19 @@ scissors = """
 """
 game_images = [rock, paper, scissors]
 
-user = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.\n"))
+user = int(input("Enter your choice: 0 for Rock, 1 for Paper, or 2 for Scissors:\n"))
 user = game_images[user]
 computer = game_images[random.randint(0, 2)]
 
-print(f"You chose\n{user}")
-print(f"Computer chose\n{computer}")
+print(f"Your choice:\n{user}")
+print(f"Computer's choice:\n{computer}")
 if user == paper and computer == rock:
-    print("You Win!")
+    print("Congratulations! You win!")
 elif user == rock and computer == scissors:
-    print("You Win!")
+    print("Congratulations! You win!")
 elif user == scissors and computer == paper:
-    print("You Win!")
+    print("Congratulations! You win!")
 elif user == computer:
-    print("Draw!")
+    print("It's a draw!")
 else:
-    print("You Lose!")
+    print("Oops! You lose. Better luck next time!")
