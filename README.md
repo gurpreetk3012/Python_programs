@@ -16,3 +16,4 @@ This repository also contains some small projects and scripts that I have worked
 - *[Love Calculator](https://github.com/gurpreetk3012/Python_programs/blob/main/Python_Projects/LoveCalculator.py)*
 - *[Weight Converter](https://github.com/gurpreetk3012/Python_programs/blob/main/Python_Projects/WeightConverter.py)*
 - *[Rock-Paper-Scissors Game](https://github.com/gurpreetk3012/Python_programs/blob/main/Python_Projects/RockPaperScissors.py)*
+- *[Password Generator](https://github.com/gurpreetk3012/Python_programs/blob/main/Python_Projects/PasswordGenerator.py)*
