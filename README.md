@@ -1,6 +1,6 @@
 ## Python Programs
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat-square)
 ![Repo Size](https://img.shields.io/github/repo-size/gurpreetk3012/Python_programs)
 
 This repository is a comprehensive collection of Python programs ranging from basic to advanced levels.
