@@ -18,3 +18,4 @@ This repository also contains some small projects and scripts that I have worked
 - *[Rock-Paper-Scissors Game](https://github.com/gurpreetk3012/Python_programs/blob/main/Python_Projects/RockPaperScissors.py)*
 - *[Password Generator](https://github.com/gurpreetk3012/Python_programs/blob/main/Python_Projects/PasswordGenerator.py)*
 - *[Maze Problem](https://github.com/gurpreetk3012/Python_programs/blob/main/Python_Projects/Maze%20problem/Maze.py)*
+- *[Hangman Game](https://github.com/gurpreetk3012/Python_programs/tree/main/Python_Projects/Hangman%20Game)*
